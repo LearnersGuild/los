@@ -13,5 +13,5 @@ To **give feedback or suggestions**, please also create an [issue][new-issue], b
 Please be actionable, specific, and kind in your feedback. We'll reply to you as soon as we are able.
 
 [report-bugs-gh]: https://coenjacobs.me/2013/12/06/effective-bug-reports-on-github/
-[new-issue]: /issues/new
-[issue-template]: ./github/ISSUE_TEMPLATE.md
+[new-issue]: https://github.com/LearnersGuild/los/issues/new
+[issue-template]: /.github/ISSUE_TEMPLATE.md
