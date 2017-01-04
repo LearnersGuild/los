@@ -1,6 +1,6 @@
 ### Expected vs. Actual
 
-_What were you attempting to do? What actually happened?_
+_What were you attempting to do? What actually happened? Please provide your project name and/or the cycle number if applicable._
 
 ### Steps to Reproduce
 
